@@ -28,8 +28,8 @@
 | [**ContextForge**](https://github.com/shxhxn/ContextForge) | Windows utility that converts codebases into structured, token-conscious context for AI assistants | Desktop tooling |
 | [**SEBI Regulatory Compiler**](https://github.com/shxhxn/regtech-sebi-my-updates) | Local-first pipeline for extracting, verifying, tracking, and comparing regulatory obligations | Python, Streamlit, Ollama |
 | [**AnimalVision AI**](https://github.com/shxhxn/animalvision-ai) | Custom CNN training pipeline and Flask application for animal image classification | TensorFlow, Flask |
-| [**SignalLab**](https://github.com/shxhxn/SignalLab-DFAtrafficSimulator) | Interactive DFA traffic-light simulator with synchronized state visualizations | React, Vite |
-| [**Virtual Draw**](https://github.com/shxhxn/virtual-draw) | Webcam drawing canvas controlled through real-time hand gestures | OpenCV, MediaPipe |
+| [**MiniDeck**](https://github.com/shxhxn/MiniDeck-Tease) | Android control deck, trackpad, keyboard, and screen companion for a Windows PC | Android, Windows |
+| [**Local Room**](https://github.com/shxhxn/LocalRoom) | Private desktop workspace for local AI models with persistent chats, search, attachments, and model discovery | Electron, React, TypeScript |
 
 ## Technologies
 
