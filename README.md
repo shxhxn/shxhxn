@@ -25,11 +25,11 @@
 | Project | What it does | Built with |
 |---|---|---|
 | [**RunReady**](https://github.com/shxhxn/RunReady) | VS Code extension that detects how a project should run and safely prepares the command | JavaScript, VS Code API |
-| [**ContextForge**](https://github.com/shxhxn/ContextForge) | Windows utility that converts codebases into structured, token-conscious context for AI assistants | Desktop tooling |
+| [**Local Room**](https://github.com/shxhxn/LocalRoom) | Private desktop workspace for local AI models with persistent chats, search, attachments, and model discovery | Electron, React, TypeScript |
 | [**SEBI Regulatory Compiler**](https://github.com/shxhxn/regtech-sebi-my-updates) | Local-first pipeline for extracting, verifying, tracking, and comparing regulatory obligations | Python, Streamlit, Ollama |
 | [**AnimalVision AI**](https://github.com/shxhxn/animalvision-ai) | Custom CNN training pipeline and Flask application for animal image classification | TensorFlow, Flask |
 | [**MiniDeck**](https://github.com/shxhxn/MiniDeck-Tease) | Android control deck, trackpad, keyboard, and screen companion for a Windows PC | Android, Windows |
-| [**Local Room**](https://github.com/shxhxn/LocalRoom) | Private desktop workspace for local AI models with persistent chats, search, attachments, and model discovery | Electron, React, TypeScript |
+| [**ContextForge**](https://github.com/shxhxn/ContextForge_v2) | Local Windows tool that exports selected codebase files as structured, token-conscious Markdown for AI assistants | Python, PySide6 |
 
 ## Technologies
 
